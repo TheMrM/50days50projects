@@ -14,3 +14,5 @@ RotateingNavigation - [Test ME](https://htmlpreview.github.io/?https://github.co
 ScrollAnimations - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/ScrollAnimations/index.html)
 
 SplitLandingPage - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/SplitLandingPage/index.html)
+
+FormInput - [Test ME](https://github.com/TheMrM/50days50projects/blob/main/FormInput/index.html)
