@@ -16,3 +16,5 @@ ScrollAnimations - [Test ME](https://htmlpreview.github.io/?https://github.com/T
 SplitLandingPage - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/SplitLandingPage/index.html)
 
 FormInput - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/FormInput/index.html)
+
+SoundBoard - [Test Me](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/SoundBoard/index.html)
