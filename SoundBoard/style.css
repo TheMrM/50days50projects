@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://media.istockphoto.com/vectors/sound-waves-motion-sound-wave-abstract-background-vector-id1176100626?k=20&m=1176100626&s=612x612&w=0&h=vl-hfVdQnFD-rEmRvTUI8f_QC0WGek3JXZPCJLAkow8=");
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.btn {
+  background-color: rgba(81, 10, 151, 0.568);
+  border-radius: 5px;
+  border: none;
+  color: rgba(128, 136, 14, 0.856);
+  margin: 1rem;
+  padding: 1.5rem 3rem;
+  font-size: 1.2rem;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+
+.btn:hover {
+  opacity: 0.5;
+}
+
+.btn:focus {
+  outline: none;
+}
