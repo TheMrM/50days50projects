@@ -15,6 +15,7 @@ body {
   overflow: hidden;
   margin: 0;
   padding: 20px;
+  background-size: static;
 }
 
 .container {
