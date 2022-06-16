@@ -3,7 +3,7 @@
 * {
   box-sizing: border-box;
 }
-
+/* need to find a way to fix text when is more than 10lines */
 body {
   background-image: url('https://img.freepik.com/free-vector/floating-laughing-emoji-characters_52683-27761.jpg?w=2000');
   font-family: 'Roboto', sans-serif;
@@ -25,7 +25,9 @@ body {
   padding: 50px 20px;
   text-align: center;
   max-height: 420px;
-  max-width: 450px;
+  max-width: 500px;  
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 h3 {
