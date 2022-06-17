@@ -21,7 +21,7 @@ body {
 .container {
   width: 8cm;
   height: 10cm;
-  background-color: ##cbce1ba8;
+  background-color: rgba(255, 251, 0, 0.623);
   border-radius: 10px;
   padding: 50px 25px;
 }
