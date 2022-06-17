@@ -19,15 +19,11 @@ body {
 }
 
 .container {
-  background-color: rgba(177, 174, 11, 0.89);
+  width: 8cm;
+  height: 10cm;
+  background-color: #cbce1b;
   border-radius: 10px;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.89), 0 6px 6px rgb(0, 0, 0);
-  padding: 50px 20px;
-  text-align: center;
-  max-height: 420px;
-  max-width: 500px;  
-  overflow: hidden;
-  text-overflow: ellipsis;
+  padding: 50px 25px;
 }
 
 h3 {
