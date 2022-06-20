@@ -23,4 +23,6 @@ DadJokesWebpage - [Test ME](https://htmlpreview.github.io/?https://github.com/Th
 
 KeyCode - [Teste ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/KeyCode/index.html)
 
-RandomeChoicePicker - [Test Me](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/RandomeChoicePicker/index.html)
+RandomeChoicePicker - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/RandomeChoicePicker/index.html)
+
+AnimatedNavigationBar - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/AnimatedNavBar/index.html)
