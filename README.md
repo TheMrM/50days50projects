@@ -32,3 +32,5 @@ IncrementCounter - [Test ME](https://htmlpreview.github.io/?https://github.com/T
 StayHidrated - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/DrikWater/index.html)
 
 MovieWebsite - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/MovieWebsite/index.html)
+
+BackgroundImgSlide - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/BackgroundSlider/index.html)
