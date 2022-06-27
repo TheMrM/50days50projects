@@ -42,3 +42,5 @@ ButtonRipple - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMr
 Drag&DropPic - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/Drag%26Drop/index.html)
 
 DrawPage - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/DrawPage/index.html)
+
+KineticRotateTriangel - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/KinnetCss/index.html)
