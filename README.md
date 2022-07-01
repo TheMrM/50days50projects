@@ -46,3 +46,5 @@ DrawPage - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50
 KineticRotateTriangel - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/KinnetCss/index.html)
 
 ContentPlaceholder - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/ContentPlaceholder/index.html)
+
+StickNav - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/StickyNavigation/index.html)
