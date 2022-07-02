@@ -48,3 +48,5 @@ KineticRotateTriangel - [Test ME](https://htmlpreview.github.io/?https://github.
 ContentPlaceholder - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/ContentPlaceholder/index.html)
 
 StickNav - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/StickyNavigation/index.html)
+
+VerticalSlide - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/VerticalSlider/index.html)
