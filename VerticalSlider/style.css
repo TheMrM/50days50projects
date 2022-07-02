@@ -64,7 +64,7 @@ body {
 button {
     background-color: #fff;
     border: 0;
-    color: #aaa;
+    color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: 16px;
     padding: 15px;
