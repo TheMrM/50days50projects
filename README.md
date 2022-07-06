@@ -50,3 +50,5 @@ ContentPlaceholder - [Test ME](https://htmlpreview.github.io/?https://github.com
 StickNav - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/StickyNavigation/index.html)
 
 VerticalSlide - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/VerticalSlider/index.html)
+
+GithubProfileSearch - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/GithubSearch/index.html)
