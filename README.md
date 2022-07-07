@@ -52,3 +52,5 @@ StickNav - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50
 VerticalSlide - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/VerticalSlider/index.html)
 
 GithubProfileSearch - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/GithubSearch/index.html)
+
+HeartClickCounter - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/HeartClickCounter/index.html)
