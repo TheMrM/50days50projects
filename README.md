@@ -54,3 +54,5 @@ VerticalSlide - [Test ME](https://htmlpreview.github.io/?https://github.com/TheM
 GithubProfileSearch - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/GithubSearch/index.html)
 
 HeartClickCounter - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/HeartClickCounter/index.html)
+
+AutoTextEffect - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/AutoTextEffect/index.html)
