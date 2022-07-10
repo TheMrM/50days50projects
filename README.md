@@ -56,3 +56,5 @@ GithubProfileSearch - [Test ME](https://htmlpreview.github.io/?https://github.co
 HeartClickCounter - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/HeartClickCounter/index.html)
 
 AutoTextEffect - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/AutoTextEffect/index.html)
+
+PasswordGenerator - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/PasswordGenerator/index.html)
