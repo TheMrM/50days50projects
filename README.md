@@ -68,3 +68,5 @@ These are samll projects that will lead to a bigger one
 33 - ImageCarousel - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/ImageCarousel/index.html)
 
 34 - Hoverboard - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/Hoverboard/index.html)
+
+35 - Pokedex - [Test ME](https://htmlpreview.github.io/?https://github.com/TheMrM/50days50projects/blob/main/Pokedex/index.html)
